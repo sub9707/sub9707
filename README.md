@@ -1,6 +1,6 @@
 <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=sub9707&show_icons=true&theme=dracula" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sub9707&layout=compact" width="45%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sub9707&layout=compact" width="45%" height="150px" />
 </div>
 
 <hr />
